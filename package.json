@@ -1,0 +1,12 @@
+{
+	"author": "Said Maadan",
+	"version": "0.1.1",
+	"name": "censorify",
+	"description": "censors word out of text",
+	"main": "censortext",
+	"keywords":["censor", "words"],
+	"dependencies": {},
+	"engines":{
+		"node": "*"
+	}
+}
