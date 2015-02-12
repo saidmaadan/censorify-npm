@@ -5,6 +5,10 @@
 	"description": "censors word out of text",
 	"main": "censortext",
 	"keywords":["censor", "words"],
+	"repository":{
+		"type" : "git",
+		"url": "https://github.com/saidmaadan/censorify-npm"
+	}
 	"dependencies": {},
 	"engines":{
 		"node": "*"
