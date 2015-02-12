@@ -1,7 +1,7 @@
 {
 	"author": "Said Maadan",
 	"version": "0.0.1",
-	"name": "censorify",
+	"name": "censorify-v2",
 	"description": "censors word out of text",
 	"main": "censortext",
 	"keywords":["censor", "words"],
